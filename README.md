@@ -1,3 +1,2 @@
-# hello-world
-## Montana
-#### Life in Big Sky Country
+# Montata
+## Life in Big Sky Country
